@@ -6,7 +6,7 @@ I've moved these to a separate repo so that those who want to only have `give_tf
 and not any custom weapons or unneeded features, may more easily manage their files.
 
 ## Weapons included
-- all original gtfw custom weapons, by [yakibomb](https://github.com/yakibomb)
+- all original [gtfw example](scripts/vscripts/gtfw_example_cw) custom weapons, by [yakibomb](https://github.com/yakibomb)
 
 ## Usage tutorial
 **see the** `tutorial` **folder**
